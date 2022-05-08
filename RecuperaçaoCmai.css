@@ -1,0 +1,71 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  min-height: 600px;
+  background-image: url("https://s2.glbimg.com/p5jZqWt5fySTb62T0PUMELVXXzk=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_63b422c2caee4269b8b34177e8876b93/internal_photos/bs/2019/X/1/fdOGu2SfWyj8EbHqNE4g/csnminerio.jpg");
+  
+  background-color: #000000;
+  background-size: cover;
+  background-position: center bottom;
+  background-repeat: no-repeat;
+}
+form{
+  text-align: center;
+  color: #ffffff;
+  padding: 15px;
+  top: 15px;
+}
+h1 {
+  text-align: center;
+  color: #ffffff;
+  padding: 15px;
+  top: 0px;
+}
+
+h3 {
+  text-align: center;
+  background: transparent;
+  color: #ffffff;
+  font-family: "Times New Roman", Times, serif;
+}
+h4 {
+  color: #ffffff;
+}
+.resultado {
+  color:#ffffff ;
+  text-align: center;
+  margin-top: 30px;
+}
+h6{
+  color:#ffffff;
+  text-align:center; 
+  font-size: 20px;
+  position: center;
+  top: 10px;
+ left: 100px;
+}
+h7{
+  color:#ffffff;
+  text-align:center; 
+  font-size: 20px;
+  position: center;
+  top: 10px;
+ left: 100px;
+}
+.page-logo {
+  width: 300px;
+}
+
+.alura-logo {
+  width: 40px;
+  position: absolute;
+  top: 15px;
+  right: 15px;
+}
+.botao01 {
+  color: #6495ED;
+  text-decoration: none;
+  margin-top: 80px;
+}
+
+  
+  
