@@ -24,7 +24,7 @@ h1 {
 h3 {
   text-align: center;
   background: transparent;
-  color: #ffffff;
+  color: #cbec10;
   font-family: "Times New Roman", Times, serif;
 }
 h4 {
@@ -36,7 +36,7 @@ h4 {
   margin-top: 30px;
 }
 h6{
-  color:#ffffff;
+  color:#cbec10;
   text-align:center; 
   font-size: 20px;
   position: center;
@@ -44,7 +44,7 @@ h6{
  left: 100px;
 }
 h7{
-  color:#ffffff;
+  color:#cbec10;
   text-align:center; 
   font-size: 20px;
   position: center;
@@ -67,5 +67,37 @@ h7{
   margin-top: 80px;
 }
 
-  
+.header {
+  position: fixed;
+  left: 0;
+  top: 0;
+  bottom: 0;
+  width: 17.5em;
+  background: #35302D;
+}
+
+.logo {
+  text-transform: capitalize;
+  font: 110 2em "Source Sans Pro", Helvetica, Arial, sans-serif;
+  text-align: center;
+  padding: 0;
+  margin: 0;
+}  
+.logo a {
+  display: block;
+  padding: 0em 0;
+  color: #fc9c0d;
+  text-decoration: none;
+  transition: .1s linear color;
+}
+.logo a:hover {
+  color: rgb(247, 9, 9);
+}
+.logo a:hover span {
+  color: #DF4500;
+}
+.logo span {
+  font-weight: 700;
+  transition: .0s linear color;
+}
   
