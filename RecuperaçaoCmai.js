@@ -16,7 +16,7 @@ function Recuperação() {
  var AliFE_Por_ALC = AliFE_Porcentagem * ALC;
  var Rmt = (PFE_Por_PD / AliFE_Por_ALC)*100; 
  var RMT = Rmt.toFixed(2);   
- document.getElementById("RMT").innerHTML ="Recuperação Metalurgica: "+ RMT+"  %"; 
+ document.getElementById("RMT").innerHTML ="Recuperação Metalurgica: "+ RMT+" %"; 
  console.log(RMT +" %");  
  }
    
